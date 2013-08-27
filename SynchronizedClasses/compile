@@ -1,0 +1,5 @@
+set echo on
+javac -target 1.5 -cp .:/opt/condor/7.4.0/lib/gt4/lib/servlet.jar HelloServlet.java
+javac -target 1.5 -cp .:/opt/condor/7.4.0/lib/gt4/lib/servlet.jar Servlet.java
+javac -target 1.5 -cp .:/opt/condor/7.4.0/lib/gt4/lib/servlet.jar Move.java
+javac -target 1.5 -cp .:/opt/condor/7.4.0/lib/gt4/lib/servlet.jar ReversiBoard.java
