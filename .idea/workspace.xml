@@ -4,17 +4,28 @@
     <list default="true" id="0e48207d-9d97-4fea-afc3-a14f8524cc36" name="Default" comment="" />
     <ignored path="ReversiServlet.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/ReversiGUI.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377459161636" ignored="false" />
+    <file path="/ReversiGUI.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377893344224" ignored="false" />
     <file path="/TestBean.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377459748357" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377468611776" ignored="false" />
-    <file path="/ReversiSwing.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377488599358" ignored="false" />
+    <file path="/ReversiSwing.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377580542881" ignored="false" />
     <file path="/XMLServer.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377487241529" ignored="false" />
-    <file path="/XMLClient.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377488374493" ignored="false" />
-    <file path="/fragment.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377484544826" ignored="false" />
-    <file path="/Servlet.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377493872682" ignored="false" />
+    <file path="/XMLClient.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377893474452" ignored="false" />
+    <file path="/fragment.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377831836406" ignored="false" />
+    <file path="/Servlet.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377890510547" ignored="false" />
     <file path="/Move.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377483064899" ignored="false" />
     <file path="/Servlet_Copy.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377485643494" ignored="false" />
-    <file path="/ReversiBoard.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377490900325" ignored="false" />
+    <file path="/ReversiBoard.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377890250620" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaFrontEnd/src/ReversiBoard.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377574620831" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaFrontEnd/src/Old_Servlet.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377574620831" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaFrontEnd/src/Servlet.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377574621828" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaFrontEnd/src/XMLClient.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377893791442" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaFrontEnd/src/HW3Proto.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377574621828" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaFrontEnd/src/ReversiSwing.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377580565423" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaFrontEnd/src/ReversiGUI.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377893346475" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaFrontEnd/src/HW3ClientExample.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377833438264" ignored="false" />
+    <file path="/HW3ClientExample.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377832843136" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaFrontEnd/src/UpdateThread.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377842261136" ignored="false" />
+    <file path="/UpdateThread.java" changelist="0e48207d-9d97-4fea-afc3-a14f8524cc36" time="1377842107511" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +45,7 @@
     <sortChildren value="false" />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -70,7 +82,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -79,13 +90,13 @@
     <favorites_list name="ReversiServlet" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.48583692">
       <split-first>
         <leaf>
           <file leaf-file-name="ReversiGUI.java" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/ReversiGUI.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="10" column="13" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0">
+                <state line="22" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -94,16 +105,25 @@
           <file leaf-file-name="ReversiSwing.java" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/ReversiSwing.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="110" column="43" selection-start="4465" selection-end="4465" vertical-scroll-proportion="0.0">
+                <state line="83" column="0" selection-start="3105" selection-end="3105" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="XMLClient.java" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="XMLClient.java" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/XMLClient.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                <state line="89" column="60" selection-start="3188" selection-end="3188" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ReversiBoard.java" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/ReversiBoard.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="119" column="4" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.3075">
                   <folding />
                 </state>
               </provider>
@@ -113,24 +133,6 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="ReversiBoard.java" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/SynchronizedClasses/ReversiBoard.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="76" column="8" selection-start="1890" selection-end="1890" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ReversiBoard.java" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/ReversiBoard.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="78" column="0" selection-start="1920" selection-end="1920" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="Move.java" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Move.java">
               <provider selected="true" editor-type-id="text-editor">
@@ -140,10 +142,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Servlet.java" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="Servlet.java" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/Servlet.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="120" column="9" selection-start="4236" selection-end="4236" vertical-scroll-proportion="0.0397878">
+                <state line="188" column="70" selection-start="7507" selection-end="7507" vertical-scroll-proportion="-2.5925">
                   <folding />
                 </state>
               </provider>
@@ -169,17 +171,18 @@
         <option value="$PROJECT_DIR$/src/Servlet_Copy.java" />
         <option value="$PROJECT_DIR$/src/Old_Servlet.java" />
         <option value="$PROJECT_DIR$/SynchronizedClasses/Move.java" />
-        <option value="$PROJECT_DIR$/src/ReversiSwing.java" />
-        <option value="$PROJECT_DIR$/src/XMLClient.java" />
         <option value="$PROJECT_DIR$/SynchronizedClasses/ReversiBoard.java" />
+        <option value="$PROJECT_DIR$/SynchronizedClasses/Servlet.java" />
+        <option value="$PROJECT_DIR$/src/XMLClient.java" />
+        <option value="$PROJECT_DIR$/src/ReversiSwing.java" />
         <option value="$PROJECT_DIR$/src/ReversiBoard.java" />
         <option value="$PROJECT_DIR$/src/Servlet.java" />
-        <option value="$PROJECT_DIR$/SynchronizedClasses/Servlet.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="-6" />
+    <option name="y" value="246" />
     <option name="width" value="1280" />
     <option name="height" value="774" />
   </component>
@@ -211,6 +214,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -239,7 +244,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SynchronizedClasses" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -256,6 +261,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HW3Proto.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -267,19 +276,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -290,11 +297,12 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -364,6 +372,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -390,19 +411,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -471,7 +479,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="774" extended-state="0" />
+    <frame x="-6" y="246" width="1280" height="774" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -495,7 +503,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24918832" sideWeight="0.67431194" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.054383118" sideWeight="0.67431194" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32568806" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13354701" sideWeight="0.67083335" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -570,21 +578,37 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ReversiGUI.form">
-      <provider selected="true" editor-type-id="ui-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReversiGUI.form">
-      <provider selected="true" editor-type-id="ui-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HW3Proto.java">
+    <entry file="file://$PROJECT_DIR$/src/ReversiBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="43" selection-start="787" selection-end="787" vertical-scroll-proportion="0.3">
+        <state line="112" column="8" selection-start="2904" selection-end="2904" vertical-scroll-proportion="0.0">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="67" selection-start="4591" selection-end="4591" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReversiBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="28" selection-start="1383" selection-end="1383" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReversiGUI.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Servlet_Copy.java">
@@ -594,52 +618,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReversiGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="289" column="0" selection-start="14219" selection-end="14219" vertical-scroll-proportion="0.8512397" />
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/src.zip!/javax/swing/ImageIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="218" column="21" selection-start="6782" selection-end="6782" vertical-scroll-proportion="0.6485294">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HW3Proto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="43" selection-start="816" selection-end="816" vertical-scroll-proportion="-2.051948">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Old_Servlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="77" selection-start="5515" selection-end="5515" vertical-scroll-proportion="2.1818182">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SynchronizedClasses/Move.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="32" selection-start="390" selection-end="390" vertical-scroll-proportion="0.3883495" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SynchronizedClasses/Move.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SynchronizedClasses/ReversiBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="8" selection-start="1890" selection-end="1890" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReversiBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="0" selection-start="1920" selection-end="1920" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReversiSwing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="43" selection-start="4465" selection-end="4465" vertical-scroll-proportion="0.0">
+        <state line="34" column="4" selection-start="1215" selection-end="1215" vertical-scroll-proportion="0.1985294">
           <folding />
         </state>
       </provider>
@@ -651,23 +651,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/XMLClient.java">
+    <entry file="file://$PROJECT_DIR$/src/ReversiGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="22" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SynchronizedClasses/Servlet.java">
+    <entry file="file://$PROJECT_DIR$/src/XMLClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="9" selection-start="3097" selection-end="3097" vertical-scroll-proportion="0.0397878">
+        <state line="89" column="60" selection-start="3188" selection-end="3188" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReversiSwing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="0" selection-start="3105" selection-end="3105" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Servlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="9" selection-start="4236" selection-end="4236" vertical-scroll-proportion="0.0397878">
+        <state line="188" column="70" selection-start="7507" selection-end="7507" vertical-scroll-proportion="-2.5925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReversiBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="119" column="4" selection-start="3149" selection-end="3149" vertical-scroll-proportion="0.3075">
           <folding />
         </state>
       </provider>
@@ -730,7 +744,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

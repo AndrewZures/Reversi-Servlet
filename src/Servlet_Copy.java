@@ -18,7 +18,7 @@ import java.util.Scanner;
 public class Servlet_Copy extends HttpServlet {
     //this method is called once when the servlet is first loaded
     //board object here
-    public void init(){
+    public void init() {
         //initialize board
 
     }
@@ -149,19 +149,18 @@ public class Servlet_Copy extends HttpServlet {
             Element root = document.getDocumentElement();
             //get the value of the id attribute
             requestType = root.getAttribute("type");
-            if(requestType.equalsIgnoreCase("move")){
-            Element locElement =
-                    (Element) document.getElementsByTagName("location").item(0);
-            Element colorElement =
-                    (Element) document.getElementsByTagName("color").item(0);
-            moveLocation =
-                    Integer.parseInt(locElement.getFirstChild().getNodeValue());
-            color = colorElement.getFirstChild().getNodeValue();
-            Move_Two moveTwo = new Move_Two(1,color,moveLocation);
+            if (requestType.equalsIgnoreCase("move")) {
+                Element locElement =
+                        (Element) document.getElementsByTagName("location").item(0);
+                Element colorElement =
+                        (Element) document.getElementsByTagName("color").item(0);
+                moveLocation =
+                        Integer.parseInt(locElement.getFirstChild().getNodeValue());
+                color = colorElement.getFirstChild().getNodeValue();
+                Move_Two moveTwo = new Move_Two(1, color, moveLocation);
                 return moveTwo;
             } else return null;
-        }
-        catch (Exception e) {
+        } catch (Exception e) {
             System.out.print(e);
             return null;
         }

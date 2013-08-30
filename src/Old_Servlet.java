@@ -9,9 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.soap.Text;
 import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerConfigurationException;
 import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
@@ -28,7 +26,8 @@ public class Old_Servlet extends HttpServlet {
     //this method is called once when the servlet is first loaded
     //board object here
     ReversiBoard board;
-    public void init(){
+
+    public void init() {
         //initialize board
         board = new ReversiBoard();
 
@@ -117,7 +116,6 @@ public class Old_Servlet extends HttpServlet {
         //DOM objects converted to Strings
 
 
-
         //out.println("<move> <location> " + move.getLocation() +
         //        " and "+ move.getColor()+ "</location> </move>");
         try {
@@ -187,19 +185,18 @@ public class Old_Servlet extends HttpServlet {
             Element root = document.getDocumentElement();
             //get the value of the id attribute
             requestType = root.getAttribute("type");
-            if(requestType.equalsIgnoreCase("move")){
-            Element locElement =
-                    (Element) document.getElementsByTagName("location").item(0);
-            Element colorElement =
-                    (Element) document.getElementsByTagName("color").item(0);
-            moveLocation =
-                    Integer.parseInt(locElement.getFirstChild().getNodeValue());
-            color = colorElement.getFirstChild().getNodeValue();
-            Move_Two moveTwo = new Move_Two(1,color,moveLocation);
+            if (requestType.equalsIgnoreCase("move")) {
+                Element locElement =
+                        (Element) document.getElementsByTagName("location").item(0);
+                Element colorElement =
+                        (Element) document.getElementsByTagName("color").item(0);
+                moveLocation =
+                        Integer.parseInt(locElement.getFirstChild().getNodeValue());
+                color = colorElement.getFirstChild().getNodeValue();
+                Move_Two moveTwo = new Move_Two(1, color, moveLocation);
                 return moveTwo;
             } else return null;
-        }
-        catch (Exception e) {
+        } catch (Exception e) {
             System.out.print(e);
             return null;
         }
